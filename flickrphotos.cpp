@@ -1,5 +1,5 @@
-#include "flickrPhotos.h"
-#include "ui_flickrPhotos.h"
+#include "flickrphotos.h"
+#include "ui_flickrphotos.h"
 #include "qtflickr.h"
 #include <QSettings>
 #include <QStandardItemModel>
